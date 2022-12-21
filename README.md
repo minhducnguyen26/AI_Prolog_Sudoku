@@ -2,7 +2,7 @@
 
 - Artificial Intelligence in solving the classical game of Sudoku
 
-- Learn and use Prolog to solve a given Sudoku puzzle in different strategies and compare their performances
+- Learn and use <b>Prolog</b> to solve a given Sudoku puzzle in different strategies and compare their performances
 
 - Visit <b>papers > Project Report</b> for the PEAS Assessment and more information on the search strategies
 
